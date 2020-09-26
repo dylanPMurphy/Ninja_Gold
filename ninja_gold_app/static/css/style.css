@@ -1,0 +1,17 @@
+.red{
+    color:red;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.option{
+    display: inline-block;
+    width:15%;
+    margin-left: 20px;
+}
