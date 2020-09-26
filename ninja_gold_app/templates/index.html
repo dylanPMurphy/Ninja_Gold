@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Your Gold:0</h1>
+    <h1>Your Gold:{{request.session.gold}}</h1>
     <h2>Farm</h2>
     <p>(earns 10-20 gold</p>
     <form action="/process_money" method="POST">
